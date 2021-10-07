@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon>{"Shape":"Circle","FontName":"now-mobile-icons","Value":"e905","Name":"icon-QR-Code","FontColor":"#293E40","BackgroundColor":"#293E40"}</icon>
+        <name>icon-QR-Code</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 09:10:55</sys_created_on>
+        <sys_id>c359c7e52f47b010f908c886f699b649</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>icon-QR-Code</sys_name>
+        <sys_package display_value="Mobile QR asset scanner" source="x_652374_mobile_qr">fc43bea12f07b010f908c886f699b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile QR asset scanner">fc43bea12f07b010f908c886f699b6e7</sys_scope>
+        <sys_update_name>sys_sg_icon_c359c7e52f47b010f908c886f699b649</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 09:37:56</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>

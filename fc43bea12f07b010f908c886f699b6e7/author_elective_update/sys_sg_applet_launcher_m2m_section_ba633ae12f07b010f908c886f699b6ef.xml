@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="DELETE">
+        <applet_launcher display_value="Mobile QR asset scanner">ac6336a12f07b010f908c886f699b6f3</applet_launcher>
+        <order/>
+        <section display_value="Asset">66633ae12f07b010f908c886f699b6d5</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 07:35:03</sys_created_on>
+        <sys_id>ba633ae12f07b010f908c886f699b6ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile QR asset scanner" source="x_652374_mobile_qr">fc43bea12f07b010f908c886f699b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile QR asset scanner">fc43bea12f07b010f908c886f699b6e7</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_ba633ae12f07b010f908c886f699b6ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 07:35:03</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Mobile QR asset scanner">fc43bea12f07b010f908c886f699b6e7</application>
+        <file_path/>
+        <instance_id>ebdadfd8dbb454d85749cac505961951</instance_id>
+        <instance_name>dev103116</instance_name>
+        <name>sys_sg_applet_launcher_m2m_section_ba633ae12f07b010f908c886f699b6ef</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section"><sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE"><applet_launcher display_value="Mobile QR asset scanner">ac6336a12f07b010f908c886f699b6f3</applet_launcher><order/><section display_value="Asset">66633ae12f07b010f908c886f699b6d5</section><sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-10-07 07:35:03</sys_created_on><sys_id>ba633ae12f07b010f908c886f699b6ef</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Mobile QR asset scanner" source="x_652374_mobile_qr">fc43bea12f07b010f908c886f699b6e7</sys_package><sys_policy/><sys_scope display_value="Mobile QR asset scanner">fc43bea12f07b010f908c886f699b6e7</sys_scope><sys_update_name>sys_sg_applet_launcher_m2m_section_ba633ae12f07b010f908c886f699b6ef</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-10-07 07:35:03</sys_updated_on></sys_sg_applet_launcher_m2m_section></record_update>]]></payload>
+        <payload_hash>159466485</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>7c43bea12f07b010f908c886f699b6e9</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 07:35:03</sys_created_on>
+        <sys_id>7a633ae12f07b010f908c886f699b6f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c59ad51620000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 07:35:03</sys_updated_on>
+        <type>Launcher section mapping</type>
+        <update_guid>f2633ae1e707b0102ffd30535ced6ff6</update_guid>
+        <update_guid_history>f2633ae1e707b0102ffd30535ced6ff6:159466485</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 10:17:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher_m2m_section">sys_sg_applet_launcher_m2m_section</sys_db_object>
+        <sys_id>4d837d19ba0c436aa36e690d41065669</sys_id>
+        <sys_metadata>ba633ae12f07b010f908c886f699b6ef</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Mobile QR asset scanner" source="x_652374_mobile_qr">fc43bea12f07b010f908c886f699b6e7</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Mobile QR asset scanner">fc43bea12f07b010f908c886f699b6e7</sys_scope>
+        <sys_scope_delete display_value="">13ab1440a4cf440c81e3ab3dbe487124</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_ba633ae12f07b010f908c886f699b6ef</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_m2m_section_ba633ae12f07b010f908c886f699b6ef">7a633ae12f07b010f908c886f699b6f6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 10:17:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

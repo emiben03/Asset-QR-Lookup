@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
+    <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
+        <description/>
+        <execution_script/>
+        <name>Get Asset data</name>
+        <parameter_screen/>
+        <query_condition/>
+        <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 07:36:48</sys_created_on>
+        <sys_id>02a332252f07b010f908c886f699b66f</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Get Asset data</sys_name>
+        <sys_package display_value="Mobile QR asset scanner" source="x_652374_mobile_qr">fc43bea12f07b010f908c886f699b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile QR asset scanner">fc43bea12f07b010f908c886f699b6e7</sys_scope>
+        <sys_update_name>sys_sg_write_back_action_item_02a332252f07b010f908c886f699b66f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 07:43:56</sys_updated_on>
+        <table>alm_asset</table>
+        <template>ref_alm_hardware.u_qr_code={{qr_code}}^EQ</template>
+        <type>update</type>
+        <use_current_record_as_condition>true</use_current_record_as_condition>
+        <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>
+    </sys_sg_write_back_action_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=02a332252f07b010f908c886f699b66f"/>
+</record_update>

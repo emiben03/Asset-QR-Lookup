@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon">
+    <sys_sg_icon action="INSERT_OR_UPDATE">
+        <icon/>
+        <name>Asset QR Lookup Record Screen Icon</name>
+        <sys_class_name>sys_sg_icon</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-07 09:10:56</sys_created_on>
+        <sys_id>db59cbe52f47b010f908c886f699b63b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset QR Lookup Record Screen Icon</sys_name>
+        <sys_package display_value="Mobile QR asset scanner" source="x_652374_mobile_qr">fc43bea12f07b010f908c886f699b6e7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mobile QR asset scanner">fc43bea12f07b010f908c886f699b6e7</sys_scope>
+        <sys_update_name>sys_sg_icon_db59cbe52f47b010f908c886f699b63b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-07 09:10:56</sys_updated_on>
+        <type>font</type>
+    </sys_sg_icon>
+</record_update>
