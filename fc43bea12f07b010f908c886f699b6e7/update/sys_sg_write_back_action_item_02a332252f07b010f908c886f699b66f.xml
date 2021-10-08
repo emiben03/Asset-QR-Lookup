@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_write_back_action_item">
     <sys_sg_write_back_action_item action="INSERT_OR_UPDATE">
-        <description/>
+        <description>Allows record updates through the mobile app.</description>
         <execution_script/>
-        <name>Get Asset data</name>
+        <name>Update Asset information</name>
         <parameter_screen/>
         <query_condition/>
         <sys_class_name>sys_sg_write_back_action_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-10-07 07:36:48</sys_created_on>
         <sys_id>02a332252f07b010f908c886f699b66f</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_name>Get Asset data</sys_name>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Update Asset information</sys_name>
         <sys_package display_value="Mobile QR asset scanner" source="x_652374_mobile_qr">fc43bea12f07b010f908c886f699b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile QR asset scanner">fc43bea12f07b010f908c886f699b6e7</sys_scope>
         <sys_update_name>sys_sg_write_back_action_item_02a332252f07b010f908c886f699b66f</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-10-07 07:43:56</sys_updated_on>
+        <sys_updated_on>2021-10-08 09:12:41</sys_updated_on>
         <table>alm_asset</table>
-        <template>ref_alm_hardware.u_qr_code={{qr_code}}^EQ</template>
+        <template>asset_tag={{edit_asset_tag}}^company={{edit_company}}^department={{edit_department}}^install_status={{edit_install_status}}^location={{edit_location}}^model={{edit_model}}^model_category={{edit_model_category}}^serial_number={{edit_serial_number}}^assigned_to={{edit_assigned_to}}^EQ</template>
         <type>update</type>
         <use_current_record_as_condition>true</use_current_record_as_condition>
         <use_fields_for_ref_lookup>false</use_fields_for_ref_lookup>

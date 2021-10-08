@@ -8,11 +8,11 @@
         <cancel_label/>
         <condition/>
         <condition_script/>
-        <condition_type>script</condition_type>
+        <condition_type>declarative</condition_type>
         <confirm_label/>
         <confirmation_message/>
-        <context>global</context>
-        <description/>
+        <context>record</context>
+        <description>Allows record updates through the mobile app.</description>
         <destination_alp/>
         <destination_screen/>
         <destination_type>screen</destination_type>
@@ -29,7 +29,7 @@
         <mail_address/>
         <mail_content/>
         <mail_subject/>
-        <name>Get Asset data</name>
+        <name>Update Asset information</name>
         <offline>false</offline>
         <offline_template_field/>
         <offline_template_field_table/>
@@ -54,20 +54,20 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-10-07 07:42:08</sys_created_on>
         <sys_id>80e436652f07b010f908c886f699b6e8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>Get Asset data</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Update Asset information</sys_name>
         <sys_package display_value="Mobile QR asset scanner" source="x_652374_mobile_qr">fc43bea12f07b010f908c886f699b6e7</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mobile QR asset scanner">fc43bea12f07b010f908c886f699b6e7</sys_scope>
         <sys_update_name>sys_sg_button_80e436652f07b010f908c886f699b6e8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-10-07 07:42:08</sys_updated_on>
-        <table/>
+        <sys_updated_on>2021-10-08 07:53:47</sys_updated_on>
+        <table>alm_asset</table>
         <take_value_from_field>false</take_value_from_field>
         <type>write_back</type>
         <unhighlighted_icons/>
         <use_overlay>false</use_overlay>
-        <write_back_action_item display_value="Get Asset data">02a332252f07b010f908c886f699b66f</write_back_action_item>
+        <write_back_action_item display_value="Update Asset information">02a332252f07b010f908c886f699b66f</write_back_action_item>
         <zombified_screens/>
     </sys_sg_button>
     <sys_translated_text action="delete_multiple" query="documentkey=80e436652f07b010f908c886f699b6e8"/>
